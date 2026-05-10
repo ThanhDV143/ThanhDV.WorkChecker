@@ -10,6 +10,9 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# Claude Code
+.claude
+
 # Package Files #
 *.jar
 *.war
